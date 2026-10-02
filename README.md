@@ -1,4 +1,4 @@
-#jpa02-celinezhao7
+# jpa02-celinezhao7
 
 Repo: https://github.com/ucsb-cs156-f26/jpa02-celinezhao7
 
